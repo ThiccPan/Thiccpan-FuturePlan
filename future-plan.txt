@@ -2,6 +2,7 @@ My resolution
 -learning plan
   -learn git and github
   -relearn js
+    -learn react
   -learn laravel by the end of 4th semester
   -win some competition
   
