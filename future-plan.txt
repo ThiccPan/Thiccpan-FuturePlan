@@ -1,4 +1,8 @@
 My resolution
--learn git and github
--learn laravel by the end of 4th semester
--became an intern as late in 6th semester
+-learning plan
+  -learn git and github
+  -relearn js
+  -learn laravel by the end of 4th semester
+  
+-career plan  
+  -became an intern as late in 6th semester
