@@ -4,7 +4,6 @@ My resolution
   -relearn js
     -learn react
   -learn laravel by the end of 4th semester
-  -win some competition
   
 -career plan  
   -became an intern as late in 6th semester
