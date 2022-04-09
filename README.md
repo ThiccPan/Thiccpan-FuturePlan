@@ -1,2 +1,2 @@
 # Thiccpan-FuturePlan
-repo to store future plan
+repo to learn git and github
